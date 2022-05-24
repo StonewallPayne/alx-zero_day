@@ -1,1 +1,1 @@
-git commit -m 'How to be up to date on git'
+up_to_date
